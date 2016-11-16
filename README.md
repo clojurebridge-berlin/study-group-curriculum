@@ -7,6 +7,7 @@ We still need some help to fill the empty spots!
 ### How can I help?
 
 * Head to the [Issues](/../../issues)
+* There is an open issue for each *week* of the study group that still needs curriculum work. 
 * Pick an issue that interests you, and let people know you are working on it.
 * Read the `Goal` and `Todo` section carefully. 
 * Follow the steps under `Todo`. 
