@@ -1,5 +1,13 @@
 ## Week 0
 
-This week we will review and expand our quil sketches from the ClojureBridge workshop.
+# Learning goal
 
-If you like, you can commit and push your quil sketch to this repo to save it for later.
+The goal of this week is to get set up with Nightcode & Quil. You can continue and expand your sketch from the ClojureBridge workshop or start a new one.
+
+You can find lots of examples on https://quil.info
+
+You can also continue with the curriculum from the workshop on https://clojurebridge-berlin.org/curriculum
+
+# Bonus
+
+If you like, you can download the Git app from https://desktop.github.com/ and add your code to this repository.
