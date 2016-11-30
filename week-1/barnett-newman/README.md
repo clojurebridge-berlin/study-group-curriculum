@@ -6,6 +6,6 @@
 
 This is the original ^ and we'll be drawing this:
 
-![quil onement](https://github.com/clojurebridge-berlin/study-group-curriculum/blob/lp-week1/week-1/barnett-newman/resources/quil-onement.png)
+![quil onement](https://github.com/clojurebridge-berlin/study-group-curriculum/blob/master/week-1/barnett-newman/resources/quil-onement.png)
 
 You can also refactor and enhance the code and painting!
