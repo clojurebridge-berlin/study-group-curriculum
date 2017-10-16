@@ -1,4 +1,4 @@
-## Study Group Curriculum - Winter 2016
+## Study Group Curriculum - Winter 2017
 
 This is the home of the Clojure Berlin study group curriculum Winter 2016.
 
